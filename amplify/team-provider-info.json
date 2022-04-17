@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-helloreact-dev-210934-authRole",
+            "UnauthRoleArn": "arn:aws:iam::968964432864:role/amplify-helloreact-dev-210934-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::968964432864:role/amplify-helloreact-dev-210934-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-helloreact-dev-210934-deployment",
+            "UnauthRoleName": "amplify-helloreact-dev-210934-unauthRole",
+            "StackName": "amplify-helloreact-dev-210934",
+            "StackId": "arn:aws:cloudformation:us-east-1:968964432864:stack/amplify-helloreact-dev-210934/97df8ce0-be64-11ec-bc99-12bdc38c429f",
+            "AmplifyAppId": "d1wtr8x195ft9w"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1wtr8x195ft9w",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}
